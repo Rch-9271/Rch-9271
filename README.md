@@ -4,9 +4,9 @@
 
 <img align="right" width="290" src="octocat-Rohit.png" alt="Rch-9271" />
 
-- 🔭 I’m currently working on **Underwater Wireless Optical Communication**
+- 🔭 I’m currently working on **Underwater Wireless Optical Communication(UWOC),Gallium Nitride HEMT, NTP  **
   
-- 🌱 I’m currently learning **Verilog, Embedded system, GaN HEMT**
+- 🌱 I’m currently learning **Verilog, Embedded system, GaN HEMT, NTP**
   
 - 👯 I’m looking to collaborate on **WIreless Communiation, GaN HEMT**
   
