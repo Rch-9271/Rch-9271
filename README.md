@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Underwater WWireless Optical Communication**
+- 🔭 I’m currently working on **Underwater Wireless Optical Communication**
   
 - 🌱 I’m currently learning **Verilog, Embedded system, GaN HEMT**
   
