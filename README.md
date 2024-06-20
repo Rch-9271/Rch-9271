@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=30&duration=3000&pause=900&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Greetings!+;I+am+Rohit+Choudhary+%E2%9C%A8" alt="Typing SVG" /></a>
+</div>
 
 <!--
 **Rch-9271/Rch-9271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
