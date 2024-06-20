@@ -2,17 +2,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=30&duration=3000&pause=900&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Greetings!+;I+am+Rohit+Choudhary+%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
 
-<!--
-**Rch-9271/Rch-9271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Underwater WWireless Optical Communication**
+  
+- 🌱 I’m currently learning **Verilog, Embedded system, GaN HEMT**
+  
+- 👯 I’m looking to collaborate on **WIreless Communiation, GaN HEMT**
+  
+- 💬 Ask me about **Anything**
+
+- ⚡ Fun fact: **Avid youtube wanderer**
