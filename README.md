@@ -13,3 +13,11 @@
 - 💬 Ask me about **Anything**
 
 - ⚡ Fun fact: **Avid youtube wanderer**
+  
+# 🛠️ Tech Stack:
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,python,c,cpp,instagram"/>
+  </a>
+</div>
